@@ -1,8 +1,8 @@
 // config first when install git in system
 
-config --global user.name <your user name>
+git config --global user.name <your user name>
 
-config --global user.email <your email> 
+git config --global user.email <your email> 
 
 //after that you use thees comand in your woring directory(folder)
 
